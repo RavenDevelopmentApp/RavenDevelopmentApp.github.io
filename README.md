@@ -1,1 +1,1 @@
-## [privacyPolicyReaction]:https://RavenDevelopmentApp.github.io/privacyPolicyReaction.html
+## [privacyPolicyReaction](https://RavenDevelopmentApp.github.io/privacyPolicyReaction.html)
