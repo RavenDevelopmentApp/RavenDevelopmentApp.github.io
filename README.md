@@ -7,3 +7,5 @@
 ## [privacyPolicyWorkHours](https://RavenDevelopmentApp.github.io/privacyPolicyWorkHours.html)
 
 ## [privacyPolicyWorkShifter](https://RavenDevelopmentApp.github.io/privacyPolicyWorkShifter.html)
+
+## [app-ads](https://RavenDevelopmentApp.github.io/app-ads.txt)
