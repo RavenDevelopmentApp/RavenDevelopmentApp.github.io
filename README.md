@@ -10,4 +10,4 @@
 
 ## [app-ads](https://RavenDevelopmentApp.github.io/app-ads.txt)
 
-## [privacyPolicyWorkShifter](https://RavenDevelopmentApp.github.io/privacyPolicyAutomationSoundR.html)
+## [privacyPolicyR](https://RavenDevelopmentApp.github.io/privacyPolicyAutomationSoundR.html)
