@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dark Mode Page</title>
+    <style>
+        body {
+            background-color: #2E2D32; /* Темный фон */
+            color: #ffffff; /* Белый текст */
+            font-family: "Gill Sans", sans-serif;
+            height: 100vh; /* Высота всей страницы */
+            margin: 0; /* Убираем отступы по умолчанию */
+            padding-left: 10%;
+            padding-right: 10%;
+           
+         
+        }
+        /* Общий стиль для всей страницы */
+        .center {
+            
+            display: flex; /* Расположение элементов в строку */
+            align-items: center; /* Выравнивание по вертикали */
+            justify-content: space-between; /* Распределение между элементами */
+           
+         
+        }
+
+        /* Стиль для левой части (текст) */
+        .left {
+            flex: 1; /* Занимает всю доступную ширину */
+            padding-right: 40px; /* Отступ справа */
+            display: flex; /* Расположение элементов внутри div */
+            flex-direction: column; /* Вертикальное расположение элементов */
+            justify-content: center; /* Выравнивание по вертикали */
+            align-items: flex-end; /* Выравнивание по горизонтали */
+           
+           
+        }
+
+        /* Стиль для правой части (изображение) */
+        .right {
+            flex: 1; /* Занимает всю доступную ширину */
+            text-align: right; /* Выравнивание текста по правому краю */
+            display: flex; /* Расположение элементов внутри div */
+            flex-direction: column; /* Вертикальное расположение элементов */
+            justify-content: center; /* Выравнивание по вертикали */
+          
+           
+           
+            
+            
+
+        }
+
+        /* Стиль для изображения */
+        .image {
+            max-width: 80%; /* Максимальная ширина изображения */
+            height: auto; /* Автоматическая высота */
+            object-fit: cover; 
+            object-position: bottom;
+        }
+
+         /* Стиль для футера */
+         footer {
+            margin-top: 10%;
+            text-align: center; /* Выравнивание текста по центру */
+           
+            padding-bottom: 30px;
+        }
+        p {
+            font-size: 16px;
+            text-align: end;
+            font-weight: 200;
+        }
+
+        h1 {
+            font-size: 60px;
+            text-align: end;
+            font-weight: 800;
+            color: #4D47F1
+        }
+
+        h3 {
+            font-size: 40px;
+            text-align: end;
+            font-weight: 600;
+        }
+
+        span {
+            font-size: 16px;
+            
+            font-weight: 200;
+            color: #ffffff;
+        }
+
+        a {
+            color: #4D47F1
+        }
+
+    </style>
+</head>
+<body>
+    <div class="center">
+        <div class="left">
+            <h1>Lucky Magic Ball</h1>
+            <h3>Lucky Magic Ball — your personal assistant right in your pocket! Unsure about a decision? Ask a question and let the Magic Ball help you make a choice.</h3>
+        <p> Remember, the “Lucky Magic Ball” is just an entertainment tool and should not replace real decision-making. Use it to add variety to your decision-making process, but always rely on your own reasoning and intuition when making important life choices.</p>     
+        
+        </div>
+        <div class="right">
+            <img src="assets/image/ball.png" alt="Изображение" class="image">
+        </div>
+    </div>
+
+    <footer>
+        <span> If you have any inquiries or need assistance, feel free to get in touch with us  </span>
+        <a href="mailto:applicat.development@gmail.com">applicat.development@gmail.com</a>
+    </footer>
+</body>
+</html>
+
