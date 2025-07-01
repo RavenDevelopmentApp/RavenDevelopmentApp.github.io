@@ -15,3 +15,5 @@
 ## [privacyPolicyElbowDxfFlutter](https://RavenDevelopmentApp.github.io/privacyPolicyElbowDxfFlutter.html)
 
 ## [Lucky MagicBall](https://RavenDevelopmentApp.github.io/Lucky_MagicBall/index.html)
+
+## [Lucky MagicBall privacy policy](https://RavenDevelopmentApp.github.io/privacy_policy_LuckyMB.html)
